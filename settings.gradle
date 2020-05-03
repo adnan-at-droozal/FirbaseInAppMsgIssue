@@ -1,0 +1,2 @@
+rootProject.name='FirbaseInAppMsgIssue'
+include ':app'
